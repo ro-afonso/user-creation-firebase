@@ -13,4 +13,6 @@ Follow these steps to perform the operations demonstrated in the video:
 3) Set up a free subdomain on [AwardSpace](https://www.awardspace.com) to create your Linux/Apache web server
 4) Move the "download_file.php", "upload_file.php" and "delete_file.php" scripts to your web server
 5) Update the "MainActivity.kt" script on the Android app with the paths for each PHP script on your web server
-6) Perform the CRUD operations with user profiles
+6) Activate developer mode on your Android device and connect it to your computer through a USB cable
+7) Run the app to install it on your device and disconnect the cable once finished
+8) Turn on Wi-fi on your device and perform the CRUD operations with user profiles
