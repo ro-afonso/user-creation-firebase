@@ -16,4 +16,4 @@ Follow these steps to perform the operations demonstrated in the video:
 6) Update the "MainActivity.kt" script on the Android app with the paths for each PHP script on your web server
 7) Activate developer mode on your Android device and connect it to your computer through a USB cable
 8) Run the app to install it on your device and disconnect the cable once finished
-9) Turn on Wi-fi/Mobile Data on your device and perform the CRUD operations with user profiles
+9) Turn on Wi-Fi/Mobile Data on your device and perform the CRUD operations with user profiles
