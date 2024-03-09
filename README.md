@@ -1,5 +1,5 @@
 # user-creation-firebase
-A simple approach to perform CRUD operations with user profiles on an Android app and save them in Firebase and a Linux/Apache Web Server.
+A simple approach to perform CRUD operations with user profiles on an Android app and save them in Firebase alongside a Linux/Apache Web Server.
 
 The approach is demonstrated in the following video:
 
